@@ -26,7 +26,7 @@ function TeamsMain() {
 
     setShowTeams(_teams);
   };
-  return <Cards id={1} cards={showTeams} onSearch={handeSearch} />;
+  return <Cards type={1} cards={showTeams} onSearch={handeSearch} />;
 }
 
 export default TeamsMain;

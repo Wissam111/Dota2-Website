@@ -1,4 +1,4 @@
-const herosRenders = [
+export default [
   {
     id: 1,
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm",
@@ -392,11 +392,95 @@ const herosRenders = [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.webm",
   },
   {
-    id: 100,
-    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.webm",
+    id: 102,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.webm",
   },
   {
-    id: 101,
-    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.webm",
+    id: 103,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.webm",
+  },
+  {
+    id: 104,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/legion_commander.webm",
+  },
+  {
+    id: 105,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.webm",
+  },
+  {
+    id: 106,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.webm",
+  },
+  {
+    id: 107,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.webm",
+  },
+  {
+    id: 108,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.webm",
+  },
+  {
+    id: 109,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/terrorblade.webm",
+  },
+  {
+    id: 110,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.webm",
+  },
+  {
+    id: 111,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.webm",
+  },
+  {
+    id: 112,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.webm",
+  },
+  {
+    id: 113,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.webm",
+  },
+  {
+    id: 114,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/monkey_king.webm",
+  },
+  {
+    id: 119,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_willow.webm",
+  },
+  {
+    id: 120,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.webm",
+  },
+  {
+    id: 121,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm",
+  },
+  {
+    id: 123,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.webm",
+  },
+  {
+    id: 126,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.webm",
+  },
+  {
+    id: 128,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.webm",
+  },
+  {
+    id: 129,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.webm",
+  },
+  {
+    id: 135,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.webm",
+  },
+  {
+    id: 136,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/marci.webm",
+  },
+  {
+    id: 135,
+    url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/primal_beast.webm",
   },
 ];

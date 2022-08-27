@@ -1,29 +1,17 @@
 import React, { Component, Fragment, useState } from "react";
 import Cards from "../Cards";
-
+import data from "../../data/herosData";
 function HerosMain() {
-  const [showHeros, setShowHeros] = useState([]);
-  const [herosData, setHerosData] = useState([]);
-  React.useEffect(() => {
-    async function getData() {
-      const res = await fetch("https://api.opendota.com/api/heroStats");
-      const data = await res.json();
-      setHerosData(data);
-      setShowHeros(data);
-      console.log(data);
-    }
-
-    getData();
-  }, []);
-
+  const [showHeros, setShowHeros] = useState(data);
+  console.log(data[0].bad_against)
   const handeSearch = (event) => {
     let _heros = [];
-
-    herosData.forEach((hero) => {
+    data.forEach((hero) => {
+      let name = hero.name.replace(/\W/g, '').toLowerCase();
+      let input = event.target.value.replace(/\W/g, '').toLowerCase();
       if (
-        hero.localized_name
-          .toLowerCase()
-          .includes(event.target.value.toLowerCase())
+        name 
+          .includes(input)
       ) {
         _heros.push(hero);
       }

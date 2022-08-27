@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Card from "./Card";
 
 function Cards(props) {
-  const { id, cards, onSearch } = props;
+  const { type, cards, onSearch } = props;
 
   return (
     <div className="page-wrapper">
@@ -20,9 +20,9 @@ function Cards(props) {
         {cards.map((card) => (
           <Card
             key={card.id}
-            name={id ? card.name : card.localized_name}
-            img={id ? card.logo_url : `https://api.opendota.com${card.img}`}
-            type={id}
+            name={card.name}
+            img={type ? card.logo_url:card.img}
+            type={type}
             card={card}
           />
         ))}
