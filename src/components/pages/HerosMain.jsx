@@ -10,6 +10,7 @@ function HerosMain() {
       const data = await res.json();
       setHerosData(data);
       setShowHeros(data);
+      console.log(data);
     }
 
     getData();

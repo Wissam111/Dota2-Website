@@ -22,6 +22,8 @@ function Cards(props) {
             key={card.id}
             name={id ? card.name : card.localized_name}
             img={id ? card.logo_url : `https://api.opendota.com${card.img}`}
+            type={id}
+            card={card}
           />
         ))}
       </div>

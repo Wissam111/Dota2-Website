@@ -194,7 +194,6 @@
   width: 20%;
   height: 13.5vh;
   border-radius: 0.5em;
-  color: #fff;
   -webkit-box-shadow: 1px 2.2px 10px 1.2px #545050;
           box-shadow: 1px 2.2px 10px 1.2px #545050;
   position: relative;
@@ -209,6 +208,12 @@
   display: none;
   background: -webkit-gradient(linear, left top, right top, from(#0a0909), to(#443e3e));
   background: linear-gradient(to right, #0a0909, #443e3e);
+  text-decoration: none;
+  color: #fff;
+}
+
+.card-container .heroName .fa {
+  color: lightblue;
 }
 
 .card-container img {
