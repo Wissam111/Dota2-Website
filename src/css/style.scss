@@ -250,64 +250,108 @@
 }
 //--------------------------hero View-------------//
 
-.view-container{
+.view-container {
   display: flex;
-  background: #1D4350; 
-  background: -webkit-linear-gradient(to right, #A43931, #1D4350); 
-  background: linear-gradient(to right, #A43931, #1D4350); 
- min-height: 100vh;
+  background: #1d4350;
+  background: -webkit-linear-gradient(to right, #a43931, #1d4350);
+  background: linear-gradient(to right, #a43931, #1d4350);
+  min-height: 100vh;
 
-  .hero-video{
-    width: 110%;   
+  .hero-video {
+    width: 110%;
     margin: 0;
- 
-
   }
-  .attrLogo{
+  .attrLogo {
     width: 25%;
     border-radius: 50%;
-
   }
 }
 
-.heroVideo-container{
+.heroVideo-container {
   display: flex;
   justify-content: center;
   width: 45%;
+  min-height: 87vh;
   margin-top: 1em;
   border: 1px solid rgb(51, 45, 45);
   border-radius: 50%;
   box-shadow: 2px 4px 10px 5px rgb(93, 82, 82);
- 
+  position: absolute;
+  right: 0;
+  margin-right: 2.9em;
 }
 
-.view-content{
-  width: 60%;
+.view-content {
+  width: 52.5%;
   border: 1px solid black;
-  border-right: 0px ;
+  border-right: 0px;
   height: 25vh;
-  margin-top: 10em;
-  margin-left: 2em;
-  padding: 2em;
-  
+  position: absolute;
+  left: 0;
+  top: 40%;
 
-  ul{
+  padding: 2em;
+
+  ul {
     display: flex;
     justify-content: space-between;
-   list-style: none;
-   text-align: center;
-  //  border: 1px solid black;
-  
-   overflow:hidden;
-   li{
-    width: 50%;
-   }
-   p{
-    color: white;
-   }
+    list-style: none;
+    text-align: center;
+    //  border: 1px solid black;
+
+    overflow: hidden;
+    li {
+      width: 50%;
+    }
+    p {
+      color: white;
+    }
   }
-  h3{
+  h3 {
     color: black;
     margin-bottom: 1em;
+  }
+}
+
+//------------------Graph-------------------//
+
+.graph-container {
+  // border: 2px solid green;
+  width: 100%;
+  height: 100vh;
+  // background: red;
+  background: black;
+
+  position: relative;
+  h1 {
+    color: red;
+  }
+
+  .nodes-container {
+    width: 100%;
+    border: 2px solid red;
+
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .node-container {
+    width: 2%;
+    border-radius: 50%;
+    box-shadow: 2px 1.2px 10px 2px rgb(111, 109, 109);
+    z-index: 9999;
+    height: 4vh;
+    display: flex;
+
+    img {
+      width: 100%;
+
+      border-radius: 50%;
+    }
+    .nodeName {
+      display: none;
+    }
   }
 }

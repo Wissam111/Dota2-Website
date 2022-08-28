@@ -10,7 +10,6 @@ function TeamsMain() {
       const data = await res.json();
       setTeamsData(data);
       setShowTeams(data);
-      console.log(data);
     }
     getData();
   }, []);

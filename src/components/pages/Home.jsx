@@ -1,10 +1,10 @@
 import React, { Component, Fragment } from "react";
 import Main from "../Main";
 
-function Home() {
+function Home(props) {
   return (
     <Fragment>
-      <Main />
+      <Main data={props.data} onSearch={props.onSearch} />
     </Fragment>
   );
 }
