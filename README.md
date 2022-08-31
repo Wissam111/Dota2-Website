@@ -1,6 +1,5 @@
-# Catch The Pokemon
+# Dota2 Simple Website
 
-#### A part of a university assignment
 
 ![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)
 
@@ -9,9 +8,14 @@
 </p>
 
 ## The Web In Action
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/vb1.mp4))](https://youtu.be/vt5fpE0bzSY)
-[![asciicast]([https://asciinema.org/a/113463.png](https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/vb1.mp4))](https://asciinema.org/a/113463)
-<img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/v2.mkv" width="300px">
+<img  src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/vb1.mp4" width="200px">
+
+https://user-images.githubusercontent.com/70629274/187754469-ac26ae60-6823-4b7a-8b83-b935b5b1361d.mp4
+
+
+
+https://user-images.githubusercontent.com/70629274/187754826-90c34bff-c6fc-4896-aec1-c401f5743299.mp4
+
 
 </br>
 
@@ -42,7 +46,7 @@ You may also see any lint errors in the console.
 
 ## Authors
 
-- **Wissam Kabha** - github -> https://www.linkedin.com/in/wissam-kabha-7a20b1226/
+- **Wissam Kabha** - Linkedin -> https://www.linkedin.com/in/wissam-kabha-7a20b1226/
 
 </br>
 
