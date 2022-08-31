@@ -5,13 +5,13 @@
 ![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)
 
 <p align="center">
-<img  src="./imgs/pa.gif" width="200px">
+<img  src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/pa.gif" width="200px">
 </p>
 
 ## The Web In Action
 
-<img src="./imgs/v1.mkv" width="300px">
-<img src="./imgs/v2.mkv" width="300px">
+<img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/v1.mkv" width="300px">
+<img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/v2.mkv" width="300px">
 
 </br>
 
