@@ -9,8 +9,8 @@
 </p>
 
 ## The Web In Action
-
-<img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/v1.mkv" width="300px">
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/vb1.mp4)
+<img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/vb1.mp4" width="300px">
 <img src="https://github.com/Wissam111/Dota2-Website/blob/master/src/imgs/v2.mkv" width="300px">
 
 </br>
