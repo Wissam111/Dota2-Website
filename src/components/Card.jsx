@@ -6,11 +6,13 @@ class Card extends Component {
     return (
       <div
         id={this.props.key}
-        className={!this.props.g ? "card-container" : "node-container"}
+        className={
+          !this.props.g ? "card-container" : `node-container ${this.props.cn}`
+        }
         style={{
           position: this.props.g ? "absolute" : "",
-          left: this.props.g ? this.props.card.x + "px" : "",
-          top: this.props.g ? this.props.card.y + "px" : "",
+          left: this.props.g ? this.props.x + "px" : "",
+          top: this.props.g ? this.props.y + "px" : "",
         }}
       >
         <img src={this.props.img} alt="" />

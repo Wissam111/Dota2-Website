@@ -12,6 +12,40 @@ function Cards(props) {
           display: !g ? "block" : "none",
         }}
       >
+        <div className="attr-container">
+          <button
+            className={props.currAttr == "All" ? `allBtn activeAttr` : "allBtn"}
+            onClick={(e) => {
+              props.onAttr("All");
+            }}
+          >
+            <img src={require("../imgs/logoz.png")} alt="" />
+          </button>
+          <button
+            onClick={(e) => {
+              props.onAttr("str");
+            }}
+            className={props.currAttr == "str" ? `strBtn activeAttr` : "strBtn"}
+          >
+            <img src={require("../imgs/str.jpg")} alt="" />
+          </button>
+          <button
+            onClick={(e) => {
+              props.onAttr("int");
+            }}
+            className={props.currAttr == "int" ? `intBtn activeAttr` : "intBtn"}
+          >
+            <img src={require("../imgs/int.jpg")} alt="" />
+          </button>
+          <button
+            onClick={(e) => {
+              props.onAttr("agi");
+            }}
+            className={props.currAttr == "agi" ? `agiBtn activeAttr` : "agiBtn"}
+          >
+            <img src={require("../imgs/agi.jpg")} alt="" />
+          </button>
+        </div>
         <div className="wrapper">
           <input
             type="text"

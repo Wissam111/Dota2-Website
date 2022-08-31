@@ -8,6 +8,8 @@ function HerosMain(props) {
       g={false}
       cards={props.showHeros}
       onSearch={props.onSearch}
+      onAttr={props.onAttr}
+      currAttr={props.currAttr}
     />
   );
 }

@@ -15,16 +15,16 @@ function HeroView(props) {
       <div className="view-content">
         <ul className="view-cols">
           <li className="logoAttrCont">
-            <h3>Attribute</h3>
+            <h3 className="info-c">Attribute</h3>
             <img className="attrLogo" src={getAttrImg()} alt="" />
           </li>
           <li>
-            <h3>Attack Type</h3>
+            <h3 className="info-c">Attack Type</h3>
 
             <p>{attack_type}</p>
           </li>
           <li>
-            <h3>Roles</h3>
+            <h3 className="info-c">Roles</h3>
             <p>{roles.join(",\n")}</p>
           </li>
         </ul>

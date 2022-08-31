@@ -10,29 +10,7 @@ import dataDota from "./data/dataDota";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
   const [showHeros, setShowHeros] = useState(dataDota);
-  // function getRandom(min, max) {
-  //   return Math.random() * (max - min) + min;
-  // }
-  // function getD() {
-  //   dataDota.forEach((hero) => {
-  //     let arr = [];
-  //     for (let i = 0; i < dataDota.length; i++) {
-  //       if (hero.bad_against.includes(dataDota[i].name)) {
-  //         arr.push(dataDota[i].id);
-  //       }
-  //     }
-
-  //     const coordinates = {
-  //       x: getRandom(10, 1803),
-  //       y: getRandom(10, 869),
-  //       to: arr,
-  //     };
-  //     Object.assign(hero, coordinates);
-  //   });
-  //   console.log(JSON.stringify(dataDota));
-  // }
-
-  // getD();
+  const [currAttr, setCurrAttr] = useState("All");
   const handeSearch = (event) => {
     let _heros = [];
     dataDota.forEach((hero) => {
@@ -43,6 +21,27 @@ function App() {
       }
     });
 
+    setShowHeros(_heros);
+  };
+
+  const handleAttr = (event) => {
+    if (event == "All") {
+      setShowHeros(dataDota);
+      setCurrAttr("All");
+      return;
+    }
+
+    let _heros = [];
+    dataDota.forEach((hero) => {
+      let attr = hero.primary_attr;
+      let input = event;
+      console.log(event);
+      if (attr == input) {
+        _heros.push(hero);
+      }
+    });
+
+    setCurrAttr(event);
     setShowHeros(_heros);
   };
 
@@ -59,7 +58,14 @@ function App() {
           <Route
             path="/heros"
             exact
-            element={<HerosMain onSearch={handeSearch} showHeros={showHeros} />}
+            element={
+              <HerosMain
+                onSearch={handeSearch}
+                onAttr={handleAttr}
+                showHeros={showHeros}
+                currAttr={currAttr}
+              />
+            }
           />
           <Route path="/teams" exact element={<TeamsMain />} />
           <Route path="/view" exact element={<View />} />

@@ -69,8 +69,6 @@ export default [
       2, 3, 4, 6, 18, 19, 23, 26, 27, 31, 42, 43, 45, 55, 58, 59, 68, 74, 75,
       78, 81, 86, 94, 103, 108,
     ],
-    x: 1591.820576390512,
-    y: 729.5964400580591,
   },
   {
     id: 2,
@@ -121,8 +119,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.webm",
     src: 1622.5291209240706,
     to: [5, 6, 35, 39, 46, 53, 63, 64, 66, 68, 69, 75, 78, 97, 98, 111, 112],
-    x: 839.0126476077041,
-    y: 732.9778152164132,
   },
   {
     id: 3,
@@ -161,8 +157,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bane.webm",
     src: 847.5467901970285,
     to: [7, 12, 14, 15, 20, 75, 79, 80, 81, 92, 101, 103, 107, 110],
-    x: 289.49418903871435,
-    y: 106.93420867848334,
   },
   {
     id: 4,
@@ -212,8 +206,6 @@ export default [
       2, 10, 12, 17, 35, 37, 40, 48, 49, 56, 64, 80, 93, 94, 101, 104, 105, 107,
       112,
     ],
-    x: 1248.4060770738533,
-    y: 690.0571973720039,
   },
   {
     id: 5,
@@ -268,8 +260,6 @@ export default [
       1, 8, 14, 28, 40, 42, 46, 50, 53, 55, 56, 58, 67, 68, 87, 88, 91, 98, 99,
       103, 106, 107,
     ],
-    x: 503.07922288693095,
-    y: 350.70325716991937,
   },
   {
     id: 6,
@@ -298,8 +288,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/drow_ranger.webm",
     src: 444.5421983256254,
     to: [12, 31, 50, 58, 60, 76],
-    x: 1622.2998969327293,
-    y: 457.5504953869071,
   },
   {
     id: 7,
@@ -343,8 +331,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earthshaker.webm",
     src: 404.4405591314847,
     to: [17, 22, 31, 33, 34, 36, 39, 50, 53, 55, 66, 74, 86, 92, 100, 106, 109],
-    x: 877.2654233732808,
-    y: 699.1126215732056,
   },
   {
     id: 8,
@@ -402,8 +388,6 @@ export default [
       1, 2, 3, 10, 12, 13, 17, 18, 25, 30, 31, 38, 43, 44, 46, 48, 49, 55, 56,
       61, 69, 75, 78, 82, 90, 92, 95, 98, 99, 105, 107, 110, 111,
     ],
-    x: 627.2467965663589,
-    y: 541.4723393057528,
   },
   {
     id: 9,
@@ -417,8 +401,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mirana.webm",
     src: 1763.2026312164205,
     to: [13, 58, 81, 92, 101, 112],
-    x: 1636.815434263265,
-    y: 811.1195564328208,
   },
   {
     id: 10,
@@ -460,8 +442,6 @@ export default [
       1, 13, 25, 35, 42, 53, 67, 74, 75, 81, 85, 100, 102, 105, 106, 107, 111,
       112,
     ],
-    x: 550.5956950137806,
-    y: 790.5639001295988,
   },
   {
     id: 11,
@@ -505,8 +485,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nevermore.webm",
     src: 1625.0616518377446,
     to: [2, 3, 13, 22, 24, 25, 31, 34, 38, 44, 61, 62, 69, 70, 86, 87, 106],
-    x: 73.72932151668199,
-    y: 834.4766092003308,
   },
   {
     id: 12,
@@ -569,8 +547,6 @@ export default [
       2, 4, 7, 13, 15, 16, 17, 18, 22, 23, 29, 47, 51, 67, 68, 71, 72, 81, 95,
       96, 97, 98, 105, 109,
     ],
-    x: 1393.786437263097,
-    y: 167.12796722669344,
   },
   {
     id: 13,
@@ -630,8 +606,6 @@ export default [
       8, 10, 12, 14, 17, 31, 39, 40, 41, 45, 53, 56, 58, 59, 63, 70, 74, 76, 86,
       87, 95, 98, 99, 105, 112,
     ],
-    x: 451.4818149626442,
-    y: 517.2673021390981,
   },
   {
     id: 14,
@@ -671,8 +645,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pudge.webm",
     src: 1735.8269777854218,
     to: [1, 28, 35, 53, 68, 97, 98, 101, 103],
-    x: 1149.1442790710835,
-    y: 243.07835115931977,
   },
   {
     id: 15,
@@ -718,8 +690,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/razor.webm",
     src: 420.37590849059836,
     to: [1, 17, 33, 34, 35, 38, 46, 54, 58, 62, 75, 92, 97, 106],
-    x: 896.9943687718365,
-    y: 830.7574877183359,
   },
   {
     id: 16,
@@ -761,8 +731,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sand_king.webm",
     src: 1777.1958152266984,
     to: [2, 7, 22, 23, 74, 87, 106, 107, 109],
-    x: 1496.2143220545777,
-    y: 66.13203064245064,
   },
   {
     id: 17,
@@ -798,8 +766,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/storm_spirit.webm",
     src: 1637.2362034980756,
     to: [1, 25, 26, 31, 42, 44, 68, 73, 74, 75, 87, 100, 106],
-    x: 29.02536374352824,
-    y: 352.6897854596892,
   },
   {
     id: 18,
@@ -838,8 +804,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sven.webm",
     src: 576.3596931659932,
     to: [33, 34, 35, 39, 43, 47, 50, 53, 57, 59, 78, 89, 92, 94, 111],
-    x: 1744.2539186341853,
-    y: 811.6140395784355,
   },
   {
     id: 19,
@@ -875,8 +839,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.webm",
     src: 1322.373943233945,
     to: [6, 8, 25, 34, 35, 46, 53, 57, 98, 99, 109],
-    x: 1653.8724451702349,
-    y: 829.9601059542385,
   },
   {
     id: 20,
@@ -906,8 +868,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/vengefulspirit.webm",
     src: 389.339438547724,
     to: [1, 12, 28, 70, 100],
-    x: 848.4130649493555,
-    y: 764.65231387614,
   },
   {
     id: 21,
@@ -936,8 +896,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.webm",
     src: 1170.9374895014255,
     to: [2, 10, 33, 39, 50, 74, 87, 95],
-    x: 549.2765980484306,
-    y: 20.49328278975603,
   },
   {
     id: 22,
@@ -995,8 +953,6 @@ export default [
       1, 8, 13, 14, 17, 23, 40, 46, 50, 53, 56, 58, 66, 68, 69, 76, 80, 81, 85,
       92, 100,
     ],
-    x: 224.15698401881198,
-    y: 514.6984781346891,
   },
   {
     id: 23,
@@ -1037,8 +993,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/kunkka.webm",
     src: 641.4467444449318,
     to: [8, 34, 37, 53, 58, 67, 68, 77, 78, 82, 85, 87],
-    x: 667.4172811405939,
-    y: 123.50183481396391,
   },
   {
     id: 24,
@@ -1085,8 +1039,6 @@ export default [
       1, 12, 14, 18, 27, 40, 41, 48, 53, 58, 64, 66, 74, 87, 92, 97, 103, 106,
       112,
     ],
-    x: 1744.0756513727756,
-    y: 328.9401858623339,
   },
   {
     id: 25,
@@ -1136,8 +1088,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lion.webm",
     src: 621.0160491236511,
     to: [9, 13, 23, 28, 33, 51, 53, 56, 74, 81, 85, 87, 92, 101, 110],
-    x: 1798.5183256611595,
-    y: 170.45183915023986,
   },
   {
     id: 26,
@@ -1179,8 +1129,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_shaman.webm",
     src: 707.3380045816543,
     to: [2, 6, 9, 10, 14, 16, 28, 31, 41, 42, 56, 61, 74, 87, 92, 103],
-    x: 243.66815241415435,
-    y: 200.33634458626796,
   },
   {
     id: 27,
@@ -1218,8 +1166,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slardar.webm",
     src: 356.80826795604287,
     to: [12, 28, 47, 81, 93, 101, 108, 110, 112],
-    x: 461.21638978927155,
-    y: 283.1543013953384,
   },
   {
     id: 28,
@@ -1252,8 +1198,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.webm",
     src: 1510.9036861913678,
     to: [4, 31, 40, 46, 47, 53, 69, 74, 85, 86, 92],
-    x: 527.6457725257005,
-    y: 394.22906730857727,
   },
   {
     id: 29,
@@ -1286,8 +1230,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/witch_doctor.webm",
     src: 722.6188937848573,
     to: [10, 20, 21, 31, 40, 43, 60, 74, 85, 110, 112],
-    x: 80.33983908156796,
-    y: 27.622098095706484,
   },
   {
     id: 30,
@@ -1307,8 +1249,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lich.webm",
     src: 369.21726203975624,
     to: [1, 54, 60, 62],
-    x: 1386.0595628245383,
-    y: 178.95913108152513,
   },
   {
     id: 31,
@@ -1341,8 +1281,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/riki.webm",
     src: 87.36041421022719,
     to: [2, 15, 18, 22, 27, 40, 61, 98, 103],
-    x: 1747.2853141073065,
-    y: 642.718081293599,
   },
   {
     id: 32,
@@ -1383,8 +1321,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.webm",
     src: 1023.8465070239921,
     to: [13, 14, 20, 22, 24, 25, 36, 44, 47, 74, 82, 84, 85, 87, 88, 92, 111],
-    x: 1557.8813638499678,
-    y: 461.84056339949063,
   },
   {
     id: 33,
@@ -1432,8 +1368,6 @@ export default [
       1, 12, 14, 17, 40, 47, 50, 53, 59, 68, 74, 78, 80, 87, 88, 92, 103, 108,
       112,
     ],
-    x: 1073.7878985204413,
-    y: 175.79004965115263,
   },
   {
     id: 34,
@@ -1476,8 +1410,6 @@ export default [
       1, 10, 14, 20, 39, 43, 50, 53, 55, 61, 66, 70, 86, 87, 92, 95, 98, 103,
       108,
     ],
-    x: 453.97229099213143,
-    y: 663.6212892601765,
   },
   {
     id: 35,
@@ -1523,8 +1455,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/necrolyte.webm",
     src: 771.4362261911187,
     to: [1, 3, 8, 12, 31, 49, 55, 56, 67, 75, 78, 80, 81, 85, 103, 110],
-    x: 545.9708248362649,
-    y: 255.1604489035415,
   },
   {
     id: 36,
@@ -1556,8 +1486,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/warlock.webm",
     src: 910.0575251950208,
     to: [1, 4, 31, 54, 62, 69, 70, 74, 80, 105],
-    x: 1359.6705113407581,
-    y: 228.01331705817103,
   },
   {
     id: 37,
@@ -1595,8 +1523,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/beastmaster.webm",
     src: 493.2585276217931,
     to: [7, 10, 43, 49, 57, 59, 65, 89, 101, 110, 111],
-    x: 565.579000407825,
-    y: 680.6692765516522,
   },
   {
     id: 38,
@@ -1632,8 +1558,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/queenofpain.webm",
     src: 808.4701982314192,
     to: [1, 4, 5, 13, 31, 42, 47, 59, 72, 74, 82, 86, 87, 100, 112],
-    x: 945.555423484901,
-    y: 183.26974252535865,
   },
   {
     id: 39,
@@ -1661,8 +1585,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/venomancer.webm",
     src: 1625.8092204971836,
     to: [1, 6, 9, 24, 34, 55, 58, 85, 104, 108, 110, 112],
-    x: 493.2720854615124,
-    y: 602.9166707520714,
   },
   {
     id: 40,
@@ -1702,8 +1624,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/faceless_void.webm",
     src: 1053.7672667207048,
     to: [14, 20, 49, 56, 59, 68, 74, 75, 78, 89, 101, 106, 110, 111],
-    x: 132.30479243977763,
-    y: 26.65923933104764,
   },
   {
     id: 41,
@@ -1738,8 +1658,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skeleton_king.webm",
     src: 1035.8199289613747,
     to: [1, 12, 25, 31, 47, 60, 62, 73, 80, 81, 88, 112],
-    x: 1686.6940707234064,
-    y: 511.213671979701,
   },
   {
     id: 42,
@@ -1770,8 +1688,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/death_prophet.webm",
     src: 1019.030943215101,
     to: [1, 10, 12, 13, 31, 33, 68, 87, 103, 112],
-    x: 171.42144917777813,
-    y: 172.07767017747219,
   },
   {
     id: 43,
@@ -1829,8 +1745,6 @@ export default [
       2, 3, 10, 13, 14, 15, 20, 24, 25, 26, 32, 33, 35, 44, 48, 56, 60, 66, 68,
       71, 86, 87, 95, 98, 100, 109,
     ],
-    x: 45.81275745521941,
-    y: 144.5726588113666,
   },
   {
     id: 44,
@@ -1867,8 +1781,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pugna.webm",
     src: 1026.1783213775425,
     to: [1, 12, 31, 34, 38, 47, 50, 87],
-    x: 656.0867207044489,
-    y: 315.48642817941465,
   },
   {
     id: 45,
@@ -1909,8 +1821,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/templar_assassin.webm",
     src: 708.8286889931318,
     to: [12, 13, 14, 22, 27, 29, 32, 39, 46, 48, 51, 58, 61, 80, 81, 92, 109],
-    x: 1294.9890947933204,
-    y: 390.57573510397765,
   },
   {
     id: 46,
@@ -1970,8 +1880,6 @@ export default [
       1, 3, 12, 14, 21, 25, 26, 32, 33, 35, 36, 47, 54, 56, 57, 60, 62, 69, 73,
       76, 80, 88, 89, 102, 108, 111, 112,
     ],
-    x: 280.9952307490517,
-    y: 86.55874016803315,
   },
   {
     id: 47,
@@ -2041,8 +1949,6 @@ export default [
       6, 8, 9, 12, 14, 22, 24, 31, 34, 35, 40, 42, 50, 58, 60, 62, 70, 75, 81,
       92, 101, 104, 112,
     ],
-    x: 88.58474119663975,
-    y: 613.0077461100394,
   },
   {
     id: 48,
@@ -2079,8 +1985,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dragon_knight.webm",
     src: 142.3202729682672,
     to: [6, 11, 15, 27, 30, 35, 39, 46, 53, 58, 67, 75, 97],
-    x: 1645.016327170961,
-    y: 183.212497056276,
   },
   {
     id: 49,
@@ -2105,8 +2009,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dazzle.webm",
     src: 315.797214428124,
     to: [2, 4, 12, 22, 50, 67, 73, 74, 75, 88],
-    x: 1337.8441426411832,
-    y: 62.393308379642356,
   },
   {
     id: 50,
@@ -2148,8 +2050,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rattletrap.webm",
     src: 324.9368055235669,
     to: [1, 8, 12, 20, 47, 49, 53, 56, 58, 65, 67, 69, 86, 91, 105, 108, 109],
-    x: 745.3609646035284,
-    y: 749.4627293964156,
   },
   {
     id: 51,
@@ -2184,8 +2084,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/leshrac.webm",
     src: 1387.9891688823047,
     to: [1, 34, 37, 44, 47, 50, 53, 79, 87, 89],
-    x: 997.9813062204835,
-    y: 209.1232738992264,
   },
   {
     id: 52,
@@ -2240,8 +2138,6 @@ export default [
       2, 7, 15, 16, 24, 26, 27, 31, 33, 42, 47, 51, 60, 61, 63, 64, 66, 70, 86,
       87, 88, 89, 97, 98, 102, 103, 105, 107,
     ],
-    x: 1000.5122296398943,
-    y: 300.85557813531136,
   },
   {
     id: 53,
@@ -2290,8 +2186,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/life_stealer.webm",
     src: 274.96249335475375,
     to: [3, 11, 12, 27, 37, 47, 48, 55, 61, 62, 67, 69, 80, 88, 92, 98],
-    x: 1443.460323089205,
-    y: 398.8782162391448,
   },
   {
     id: 54,
@@ -2323,8 +2217,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_seer.webm",
     src: 672.7089890517068,
     to: [1, 34, 38, 62, 86, 89, 92, 105, 110],
-    x: 1380.3510830243326,
-    y: 410.3260974775941,
   },
   {
     id: 55,
@@ -2358,8 +2250,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/clinkz.webm",
     src: 237.54411410026185,
     to: [1, 4, 22, 25, 27, 28, 49, 70, 75, 77, 82, 87],
-    x: 856.5518113751915,
-    y: 443.09903480928625,
   },
   {
     id: 56,
@@ -2403,8 +2293,6 @@ export default [
       15, 25, 30, 32, 37, 39, 46, 47, 67, 68, 73, 74, 75, 77, 78, 85, 87, 88,
       96, 110,
     ],
-    x: 1428.2305697267263,
-    y: 32.34080922367363,
   },
   {
     id: 57,
@@ -2446,8 +2334,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enchantress.webm",
     src: 1488.212714387165,
     to: [3, 21, 24, 25, 31, 38, 47, 50, 53, 60, 65, 69, 81, 87, 92, 94, 100],
-    x: 202.61529638539304,
-    y: 14.4865991605732,
   },
   {
     id: 58,
@@ -2499,8 +2385,6 @@ export default [
       2, 21, 27, 35, 38, 40, 43, 53, 56, 57, 62, 67, 69, 72, 80, 87, 88, 94, 97,
       98, 101, 103,
     ],
-    x: 598.658208879418,
-    y: 23.118188966720286,
   },
   {
     id: 59,
@@ -2540,8 +2424,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/night_stalker.webm",
     src: 1325.9596732887694,
     to: [12, 18, 28, 41, 48, 56, 58, 69, 76, 80, 81, 88, 103, 108],
-    x: 1577.8694564434509,
-    y: 601.8759357380911,
   },
   {
     id: 60,
@@ -2586,8 +2468,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/broodmother.webm",
     src: 81.12814982968466,
     to: [2, 4, 7, 11, 17, 18, 22, 27, 54, 61, 72, 81, 97, 98, 103, 105],
-    x: 1086.5519796894785,
-    y: 485.7188623665074,
   },
   {
     id: 61,
@@ -2644,8 +2524,6 @@ export default [
       8, 12, 22, 27, 33, 53, 56, 58, 59, 62, 69, 70, 81, 85, 88, 91, 92, 98,
       101, 103, 110, 112,
     ],
-    x: 392.5381786367212,
-    y: 773.6333701563807,
   },
   {
     id: 62,
@@ -2678,8 +2556,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/weaver.webm",
     src: 332.90424607583486,
     to: [2, 4, 24, 25, 27, 31, 40, 59, 61],
-    x: 428.978197437841,
-    y: 758.3031216132014,
   },
   {
     id: 63,
@@ -2713,8 +2589,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/jakiro.webm",
     src: 55.54625209950755,
     to: [1, 50, 53, 74, 85, 100, 110],
-    x: 1575.9606738249556,
-    y: 429.7060300293494,
   },
   {
     id: 64,
@@ -2753,8 +2627,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/batrider.webm",
     src: 310.36414062206296,
     to: [15, 20, 28, 42, 53, 69, 75, 78, 87, 92, 101, 103, 109, 110],
-    x: 21.029236572977783,
-    y: 411.5214490321532,
   },
   {
     id: 65,
@@ -2793,8 +2665,6 @@ export default [
       7, 15, 18, 24, 26, 39, 42, 47, 54, 55, 57, 60, 63, 64, 67, 88, 97, 101,
       102, 103, 113,
     ],
-    x: 376.32927471806295,
-    y: 629.4304044105871,
   },
   {
     id: 66,
@@ -2843,8 +2713,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.webm",
     src: 332.11088903272224,
     to: [1, 17, 27, 35, 44, 53, 54, 55, 56, 62, 76, 81, 84, 86, 92, 111],
-    x: 126.52321777332473,
-    y: 809.5603691758956,
   },
   {
     id: 67,
@@ -2881,8 +2749,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ancient_apparition.webm",
     src: 75.56850040238399,
     to: [1, 6, 25, 31, 62, 74, 108, 110],
-    x: 1071.5375375450299,
-    y: 269.47130874412346,
   },
   {
     id: 68,
@@ -2923,8 +2789,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.webm",
     src: 1277.8648188135514,
     to: [6, 34, 35, 41, 46, 53, 61, 72, 79, 81, 84, 93, 108],
-    x: 851.9225471483782,
-    y: 136.89137534583156,
   },
   {
     id: 69,
@@ -2956,8 +2820,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.webm",
     src: 489.4550687986926,
     to: [12, 15, 16, 21, 25, 31, 62, 80, 98],
-    x: 1398.1205570978184,
-    y: 570.4242372720685,
   },
   {
     id: 70,
@@ -3004,8 +2866,6 @@ export default [
     to: [
       3, 4, 10, 13, 15, 25, 31, 50, 62, 73, 75, 78, 81, 82, 83, 85, 89, 93, 107,
     ],
-    x: 1567.5233085232483,
-    y: 817.5323992233133,
   },
   {
     id: 71,
@@ -3042,8 +2902,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/gyrocopter.webm",
     src: 1169.426899622761,
     to: [1, 8, 17, 22, 24, 25, 38, 53, 56, 58, 97, 105, 112],
-    x: 1550.4376525295752,
-    y: 775.5686899703171,
   },
   {
     id: 72,
@@ -3077,8 +2935,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.webm",
     src: 394.7455666953168,
     to: [27, 35, 44, 46, 53, 55, 57, 67, 69, 73, 92, 105],
-    x: 1360.6815605665506,
-    y: 297.07407768636716,
   },
   {
     id: 73,
@@ -3118,8 +2974,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.webm",
     src: 37.69917356419148,
     to: [1, 17, 27, 38, 40, 44, 45, 61, 68, 74, 87],
-    x: 1627.1445103041913,
-    y: 354.063223797872,
   },
   {
     id: 74,
@@ -3156,8 +3010,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/silencer.webm",
     src: 1467.3324865163581,
     to: [3, 12, 31, 34, 43, 46, 60, 76, 87, 92, 103, 112],
-    x: 259.322356503941,
-    y: 155.67918225725447,
   },
   {
     id: 75,
@@ -3199,8 +3051,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/obsidian_destroyer.webm",
     src: 486.77217945580855,
     to: [6, 8, 34, 42, 44, 45, 53, 56, 59, 68, 73, 74, 79, 87, 103],
-    x: 79.04452075079165,
-    y: 577.6446469347518,
   },
   {
     id: 76,
@@ -3238,8 +3088,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lycan.webm",
     src: 1088.7857711847712,
     to: [2, 4, 14, 18, 37, 43, 44, 48, 82, 89, 97, 98],
-    x: 96.24920559532748,
-    y: 414.37001583856386,
   },
   {
     id: 77,
@@ -3273,8 +3121,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/brewmaster.webm",
     src: 278.7655823734402,
     to: [1, 25, 26, 38, 42, 75, 100],
-    x: 1487.2175432762017,
-    y: 844.8400026977207,
   },
   {
     id: 78,
@@ -3318,8 +3164,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.webm",
     src: 546.4525270090083,
     to: [12, 17, 25, 51, 54, 62, 76, 79, 80, 81, 95, 105, 110, 112],
-    x: 1289.5602387982253,
-    y: 255.52409966179601,
   },
   {
     id: 79,
@@ -3352,8 +3196,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lone_druid.webm",
     src: 1076.3874838420456,
     to: [1, 31, 33, 40, 43, 62, 92, 96, 103, 113],
-    x: 1618.9867485758343,
-    y: 701.2300835548292,
   },
   {
     id: 80,
@@ -3418,8 +3260,6 @@ export default [
       2, 7, 12, 16, 18, 25, 26, 28, 32, 44, 48, 56, 60, 63, 75, 77, 81, 86, 88,
       93, 96, 97, 105, 109, 111,
     ],
-    x: 416.8947355153189,
-    y: 23.999716281618454,
   },
   {
     id: 81,
@@ -3488,8 +3328,6 @@ export default [
       2, 7, 11, 13, 14, 16, 18, 19, 23, 28, 30, 31, 32, 37, 48, 50, 63, 64, 74,
       86, 87, 96, 97, 98, 104, 105, 108, 111,
     ],
-    x: 141.2146983032834,
-    y: 495.60267605322673,
   },
   {
     id: 82,
@@ -3529,8 +3367,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/treant.webm",
     src: 1496.4223559529305,
     to: [12, 24, 27, 32, 39, 46, 49, 58, 64, 85, 97],
-    x: 642.8452603158902,
-    y: 110.70234314446668,
   },
   {
     id: 83,
@@ -3563,8 +3399,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.webm",
     src: 1116.1932990400378,
     to: [12, 13, 58, 80, 81, 84, 106, 110, 112],
-    x: 894.7487129620991,
-    y: 365.9996940504141,
   },
   {
     id: 84,
@@ -3593,8 +3427,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/undying.webm",
     src: 384.2738855512472,
     to: [7, 35, 42, 47, 71, 72, 73, 74, 80, 81, 88, 108, 112],
-    x: 1183.0069643291117,
-    y: 657.925988182603,
   },
   {
     id: 85,
@@ -3631,8 +3463,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.webm",
     src: 1028.8396410581367,
     to: [31, 55, 58, 74, 75, 92, 98, 103],
-    x: 977.8909658446156,
-    y: 60.7300903675614,
   },
   {
     id: 86,
@@ -3672,8 +3502,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/disruptor.webm",
     src: 326.8589966818115,
     to: [4, 8, 12, 13, 31, 44, 53, 55, 74, 80, 87, 88, 99, 105],
-    x: 1284.3375705765402,
-    y: 200.41583803906843,
   },
   {
     id: 87,
@@ -3711,8 +3539,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nyx_assassin.webm",
     src: 231.44865072567933,
     to: [8, 53, 59, 61, 91, 112],
-    x: 252.2152226690092,
-    y: 50.90174748554344,
   },
   {
     id: 88,
@@ -3757,8 +3583,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/naga_siren.webm",
     src: 451.3206201407842,
     to: [2, 16, 18, 22, 25, 43, 57, 58, 75, 81, 96, 97, 105],
-    x: 84.50972560946246,
-    y: 419.200120378878,
   },
   {
     id: 89,
@@ -3794,8 +3618,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/keeper_of_the_light.webm",
     src: 776.8880088359672,
     to: [1, 17, 18, 59, 87, 101, 103],
-    x: 388.50788340015333,
-    y: 590.55752261317,
   },
   {
     id: 90,
@@ -3834,8 +3656,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/wisp.webm",
     src: 971.0788417971991,
     to: [4, 31, 34, 43, 51, 55, 67, 70, 82, 86, 98, 99, 103, 111],
-    x: 1031.969705853769,
-    y: 30.093206226984666,
   },
   {
     id: 91,
@@ -3881,8 +3701,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/visage.webm",
     src: 631.7093168961594,
     to: [2, 6, 12, 34, 51, 53, 71, 80, 81, 85, 93, 97, 108],
-    x: 455.508471314708,
-    y: 706.4811520979397,
   },
   {
     id: 92,
@@ -3937,8 +3755,6 @@ export default [
       1, 2, 4, 7, 12, 13, 17, 19, 22, 24, 25, 38, 42, 51, 54, 56, 63, 67, 68,
       80, 81, 85, 86, 95, 97, 107,
     ],
-    x: 1305.3830807313268,
-    y: 147.50605807085296,
   },
   {
     id: 93,
@@ -3977,8 +3793,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/medusa.webm",
     src: 64.52532606362368,
     to: [1, 3, 12, 25, 31, 34, 73, 75, 81, 87, 88, 92, 108, 112],
-    x: 721.629184127051,
-    y: 577.2592459310466,
   },
   {
     id: 94,
@@ -4010,8 +3824,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/troll_warlord.webm",
     src: 252.70311398564803,
     to: [2, 5, 15, 30, 34, 67, 97, 107, 110, 111],
-    x: 1258.9604450371216,
-    y: 330.7245944522433,
   },
   {
     id: 95,
@@ -4044,8 +3856,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/centaur.webm",
     src: 1542.3650364024602,
     to: [11, 32, 35, 41, 53, 65, 84, 104],
-    x: 706.4189855081285,
-    y: 416.25044293311527,
   },
   {
     id: 96,
@@ -4080,8 +3890,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/magnataur.webm",
     src: 704.8573710018677,
     to: [22, 33, 34, 39, 41, 59, 66, 72, 82, 85, 109],
-    x: 993.4556049356831,
-    y: 86.43786993072736,
   },
   {
     id: 97,
@@ -4130,8 +3938,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.webm",
     src: 73.74112970120326,
     to: [13, 17, 22, 25, 35, 38, 40, 44, 47, 62, 68, 73, 74, 75, 89, 100, 105],
-    x: 1458.253261833528,
-    y: 358.5680301012108,
   },
   {
     id: 98,
@@ -4178,8 +3984,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.webm",
     src: 162.69862214907857,
     to: [1, 2, 15, 24, 25, 27, 35, 40, 57, 64, 74, 75, 89, 97, 103, 108],
-    x: 1730.8193174014718,
-    y: 796.3878599193758,
   },
   {
     id: 99,
@@ -4208,8 +4012,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.webm",
     src: 1511.605793270132,
     to: [1, 2, 12, 60, 86, 104, 106],
-    x: 656.3951127358249,
-    y: 393.4677536374366,
   },
   {
     id: 100,
@@ -4252,8 +4054,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.webm",
     src: 1508.3234491825144,
     to: [1, 8, 12, 15, 37, 41, 43, 44, 56, 58, 68, 76, 79, 80, 87, 101, 103],
-    x: 263.6340506656031,
-    y: 517.5061947663315,
   },
   {
     id: 101,
@@ -4298,8 +4098,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.webm",
     src: 920.5983183723628,
     to: [2, 24, 25, 59, 67, 68, 74, 75, 78, 84, 92],
-    x: 851.7438455081524,
-    y: 513.4916774496021,
   },
   {
     id: 102,
@@ -4322,8 +4120,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.webm",
     src: 808.1919375033169,
     to: [8, 18, 25, 30, 77],
-    x: 884.4355096129525,
-    y: 46.18463396974311,
   },
   {
     id: 103,
@@ -4373,8 +4169,6 @@ export default [
       3, 15, 18, 20, 40, 41, 43, 44, 48, 49, 56, 58, 69, 72, 75, 78, 88, 90, 94,
       99, 100, 101, 107, 110, 111, 112,
     ],
-    x: 796.9622287915998,
-    y: 588.617432602058,
   },
   {
     id: 104,
@@ -4416,8 +4210,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.webm",
     src: 930.831092066577,
     to: [1, 8, 22, 37, 41, 45, 53, 56, 59, 64, 65, 89, 91, 101, 110],
-    x: 485.2968648898722,
-    y: 342.5115673693298,
   },
   {
     id: 105,
@@ -4449,8 +4241,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.webm",
     src: 1648.2817544406112,
     to: [17, 25, 31, 38, 40, 56, 68, 70, 73, 74, 87],
-    x: 339.9235826950383,
-    y: 529.9160832445885,
   },
   {
     id: 106,
@@ -4485,8 +4275,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.webm",
     src: 422.7992070998397,
     to: [13, 57, 58, 62, 76, 101, 104, 105],
-    x: 272.4048626297301,
-    y: 209.58316651243226,
   },
   {
     id: 107,
@@ -4537,8 +4325,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.webm",
     src: 947.6975760788621,
     to: [4, 11, 17, 34, 45, 66, 70, 82, 85, 88, 90, 91, 104, 105, 111],
-    x: 718.5845372121825,
-    y: 754.5417859435944,
   },
   {
     id: 108,
@@ -4596,8 +4382,6 @@ export default [
       10, 15, 18, 22, 24, 25, 26, 33, 35, 47, 49, 54, 57, 75, 76, 78, 97, 103,
       107, 111,
     ],
-    x: 1297.014168060525,
-    y: 716.4998150708357,
   },
   {
     id: 109,
@@ -4633,8 +4417,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.webm",
     src: 1725.4098389788996,
     to: [4, 8, 46, 53, 58, 59, 69, 74, 81, 94],
-    x: 1235.5074264705327,
-    y: 520.936666571758,
   },
   {
     id: 110,
@@ -4672,8 +4454,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.webm",
     src: 216.91743878341023,
     to: [1, 2, 12, 15, 25, 40, 45, 59, 60, 67, 91, 98],
-    x: 1525.374657757145,
-    y: 242.49656925549638,
   },
   {
     id: 111,
@@ -4704,8 +4484,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.webm",
     src: 1188.4082930937864,
     to: [3, 47, 75, 84, 88, 92, 97, 100],
-    x: 1591.3736826844101,
-    y: 214.18742051461945,
   },
   {
     id: 112,
@@ -4740,8 +4518,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.webm",
     src: 762.4636124921631,
     to: [1, 12, 31, 53, 66, 73, 80, 81, 88, 92, 98],
-    x: 1356.095959316444,
-    y: 838.4157583335593,
   },
   {
     id: 113,
@@ -4795,8 +4571,6 @@ export default [
       12, 14, 17, 20, 21, 27, 32, 34, 37, 38, 39, 50, 61, 64, 66, 70, 86, 89,
       91, 96, 97, 104, 106, 109,
     ],
-    x: 1527.485148462326,
-    y: 467.9816145587647,
   },
   {
     id: 114,
@@ -4850,8 +4624,6 @@ export default [
       12, 14, 17, 20, 21, 27, 32, 34, 37, 38, 39, 50, 61, 64, 66, 70, 86, 89,
       91, 96, 97, 104, 106, 109,
     ],
-    x: 1746.445007351552,
-    y: 700.7081786659014,
   },
   {
     id: 115,
@@ -4889,8 +4661,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.webm",
     src: 308.144377081573,
     to: [1, 2, 12, 15, 25, 40, 45, 59, 60, 67, 91, 98],
-    x: 842.6982144340953,
-    y: 26.922828934038755,
   },
   {
     id: 116,
@@ -4911,8 +4681,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm",
     src: 693.6549109248851,
     to: [15, 24, 47, 91, 119],
-    x: 1340.3522799610512,
-    y: 79.462613833355,
   },
   {
     id: 117,
@@ -4940,8 +4708,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.webm",
     src: 76.0338040763323,
     to: [13, 17, 33, 64, 106, 120],
-    x: 291.1169157232455,
-    y: 571.5152499331705,
   },
   {
     id: 118,
@@ -4975,8 +4741,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.webm",
     src: 125.42390422145235,
     to: [3, 4, 13, 27, 61, 68, 81, 105],
-    x: 1027.1047345650836,
-    y: 721.4565415034169,
   },
   {
     id: 119,
@@ -5004,8 +4768,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.webm",
     src: 556.1812303174489,
     to: [15, 32, 50, 56, 73, 81, 82, 84, 93, 105, 107, 109],
-    x: 102.48376948643876,
-    y: 867.2223377813269,
   },
   {
     id: 120,
@@ -5046,8 +4808,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.webm",
     src: 58.62849996025028,
     to: [2, 11, 17, 22, 24, 31, 35, 39, 40, 44, 46, 58, 64, 83, 84, 107],
-    x: 1076.6406343694073,
-    y: 256.53829256825605,
   },
   {
     id: 121,
@@ -5061,8 +4821,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.webm",
     src: 342.65165857590165,
     to: [46, 86, 87],
-    x: 463.00930665745966,
-    y: 38.136253326555504,
   },
   {
     id: 122,
@@ -5084,8 +4842,6 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/marci.webm",
     src: 1265.835490086116,
     to: [64, 94, 96, 114, 115, 123],
-    x: 1387.0933816162901,
-    y: 797.6531936349575,
   },
   {
     id: 123,
@@ -5113,7 +4869,5 @@ export default [
     url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/primal_beast.webm",
     src: 990.0827907971861,
     to: [27, 32, 51, 64, 69, 116],
-    x: 338.58233743743733,
-    y: 526.095154411397,
   },
 ];
